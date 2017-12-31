@@ -22,7 +22,7 @@
 local TauEx = {}
 local Zones = {}
  // Disable unarrest1 to unarrest6 and all other data that was set in the config before this script is loaded
-TauEx.DisableDefaultZones = true
+TauEx.DisableDefaultZones = false
 
 // Here is your Unarrest function that you can edit
 TauEx.Funct = function( ply ) 	// \/ \/
